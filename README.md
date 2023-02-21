@@ -1,5 +1,6 @@
 # Salary-Prediction
-Salary Prediction with Machine Learning
+# Salary Prediction with Machine Learning
+
 ![Screenshot](1.png)
 
 ## Problem
